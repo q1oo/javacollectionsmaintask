@@ -1,0 +1,5 @@
+26, 20, TRUCK, Volkswagen Transporter L2, 135, 80, 9.5, 1250000, 1011,
+27, 22, TRUCK, Volkswagen Transporter L2, 135, 80, 9.5, 1280000, 1011,
+28, 26, TRUCK, Volkswagen Transporter L2, 135, 80, 9.5, 1275000, 1011,
+29, 28, TRUCK, Volkswagen Transporter L2, 135, 80, 9.5, 1265000, 1011,
+30, 29, TRUCK, Volkswagen Transporter L2, 135, 80, 9.5, 1245000, 1011,
