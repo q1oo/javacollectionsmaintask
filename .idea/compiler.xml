@@ -9,5 +9,8 @@
         <module name="javacollectionsmaintask" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="javacollectionsmaintask" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
